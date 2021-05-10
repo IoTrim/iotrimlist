@@ -1,8 +1,6 @@
 # IoTrim List
 This site contains a set of non-required destinations list from 31 consumer IoT devices. The list is created using a methodology for determining non-required destinations by automatically executing IoT device functions and determining the execution outcome while blocking selected destinations.
 
-Initial results of our paper can be found at https://arxiv.org/abs/2003.07133
-
 ![GitHub Logo](iotrim.png)
 
 ## IoT devices functionality
